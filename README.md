@@ -23,4 +23,4 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 ## 📣 Reach out to me
 - [LinkedIn](https://www.linkedin.com/in/dev-mody/)
 - [GitHub](https://github.com/DEVeloper1006)
-- [Instagram]([https://www.instagram.com/developer_106])
+- [Instagram](https://www.instagram.com/developer_106)
