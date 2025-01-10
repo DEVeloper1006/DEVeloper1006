@@ -20,6 +20,12 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 - Learning **Quantitative Finance** through data analysis and exploring financial modeling techniques.
 - Applying **Machine Learning** to **Astronomy** projects, including solar flare prediction and space data analysis.
 
+## 💪 2025 Goals:
+- Perform at least **500** commits on GitHub
+- Build and Maintain a **startup**
+- Start a **Quant Finance Portfolio**
+- Make an Open-Source Contribution to **NASA**
+
 ## 📣 Reach out to me
 - [LinkedIn](https://www.linkedin.com/in/dev-mody/)
 - [Instagram](https://www.instagram.com/developer_106)
