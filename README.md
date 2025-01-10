@@ -21,7 +21,7 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 - Applying **Machine Learning** to **Astronomy** projects, including solar flare prediction and space data analysis.
 
 ## 💪 2025 Goals:
-- Perform at least **500** commits on GitHub
+- Perform at least **2000** contributions on GitHub
 - Build and Maintain a **startup**
 - Start a **Quant Finance Portfolio**
 - Make an Open-Source Contribution to **NASA**
