@@ -4,13 +4,13 @@
 I'm a **Third Year Computer Science** student at **McMaster University**, specializing in **Machine Learning**, **Data Science**, and **Software Development**. I'm passionate about building innovative applications and solving complex problems. Currently, I'm leading the **FormFit** subteam at the **McMaster Artificial Intelligence Society**, where we're developing a **Computer Vision**-based physiotherapy app. I'm also collaborating on various machine learning and software development projects.
 
 ### 🛠 Technologies & Tools
-- **Languages**: Python, C++, SQL, COBOL, HTML/CSS, Java, JavaScript, Bash, C, Haskell, Perl
-- **Frameworks**: React.js, Next.js, Node.js, TensorFlow, PyTorch, Flask, Django, MediaPipe
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Git, Matplotlib, Seaborn, SciPy
+- **Languages**: Python, C++, SQL, IBM COBOL MainFrame, HTML/CSS, Java, JavaScript, Bash, C, Haskell, Perl, TypeScript, Microsoft Visual Basic, ARM Assembly
+- **Frameworks**: React.js, Next.js, Node.js, TensorFlow, PyTorch, Flask, Django, MediaPipe, WebSocket, FastAPI, React Native
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Git, Matplotlib, Seaborn, SciPy, Framer Motion, GSAP, Digital Ocean, Google Firebase, IBM DBeaver2
 
 ## 🔥 Currently Working On
 - **FormFit**: A **Computer Vision** app for physiotherapy form evaluation, leading a subteam to present at **CUCAI 2025**.
-- **Music Visualization**: Developing a **Machine Learning**-powered project using the **Spotify API** to visualize music data and trends.
+- **Music Visualization**: Developing a **Machine Learning**-powered project using the **Spotify API** to visualize music data and trends using Generative AI
 - **SponsorPanda**: Working on **SponsorPanda**, a platform focused on connecting startups with relevant sponsors and partners.
 
 ## 🌱 Learning
@@ -18,7 +18,7 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 - **Quantum Computing** and its applications in modern software.
 - Always exploring **AI** and **Computer Vision** technologies.
 - Learning **Quantitative Finance** through data analysis and exploring financial modeling techniques.
-- Applying **Machine Learning** to **Astronomy** projects, including solar flare prediction and space data analysis.
+- Applying **Machine Learning** to **Astronomy** projects, including solar flare prediction and space data analysis for open-source NASA projects.
 
 ## 💪 2025 Goals:
 - Perform at least **2000** contributions on GitHub
