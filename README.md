@@ -4,9 +4,10 @@
 I'm a **Third Year Computer Science** student at **McMaster University**, specializing in **Machine Learning**, **Data Science**, and **Software Development**. I'm passionate about building innovative applications and solving complex problems. Currently, I'm leading the **FormFit** subteam at the **McMaster Artificial Intelligence Society**, where we're developing a **Computer Vision**-based physiotherapy app. I'm also collaborating on various machine learning and software development projects.
 
 ### 🛠 Technologies & Tools
-- **Languages**: Python, C++, SQL, IBM COBOL MainFrame, HTML/CSS, Java, JavaScript, Bash, C, Haskell, Perl, TypeScript, Microsoft Visual Basic, ARM Assembly
-- **Frameworks**: React.js, Next.js, Node.js, TensorFlow, PyTorch, Flask, Django, MediaPipe, WebSocket, FastAPI, React Native
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Git, Matplotlib, Seaborn, SciPy, Framer Motion, GSAP, Digital Ocean, Google Firebase, IBM DBeaver2
+- **Languages**: Python, C++, SQL, COBOL, Java, JavaScript, Bash, C, Haskell, Perl, TypeScript, Microsoft Visual Basic, ARM Assembly
+- **Frameworks**: React.js, Next.js, Node.js, TensorFlow, PyTorch, Flask, Django, Google MediaPipe, React Native, Express.js
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Matplotlib, Seaborn, JUnit, DB2, GitHub, Jira, ServiceNow
+- **Cloud Services**: AWS Lambda, AWS S3, AWS CloudWatch, AWS EC2, Google Firebase, Azure Functions, Azure Blob, Azure VM
 
 ## 🔥 Currently Working On
 - **FormFit**: A **Computer Vision** app for physiotherapy form evaluation, leading a subteam to present at **CUCAI 2025**.
