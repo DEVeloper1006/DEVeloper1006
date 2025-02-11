@@ -6,8 +6,8 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 ### 🛠 Technologies & Tools
 - **Languages**: Python, C++, SQL, COBOL, Java, JavaScript, Bash, C, Haskell, Perl, TypeScript, Microsoft Visual Basic, ARM Assembly
 - **Frameworks**: React.js, Next.js, Node.js, TensorFlow, PyTorch, Flask, Django, Google MediaPipe, React Native, Express.js
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Matplotlib, Seaborn, JUnit, DB2, GitHub, Jira, ServiceNow
-- **Cloud Services**: AWS Lambda, AWS S3, AWS CloudWatch, AWS EC2, Google Firebase, Azure Functions, Azure Blob, Azure VM
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Matplotlib, Seaborn, JUnit, DB2, GitHub, Jira, ServiceNow, PowerBI
+- **Cloud Services**: AWS Lambda, AWS S3, AWS CloudWatch, AWS EC2, Google Firebase, Azure Functions, Azure Blob, Azure VM, Digital Ocean, Docker, Kubernetes
 
 ## 🔥 Currently Working On
 - **FormFit**: A **Computer Vision** app for physiotherapy form evaluation, leading a subteam to present at **CUCAI 2025**.
