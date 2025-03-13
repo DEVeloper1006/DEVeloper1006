@@ -10,7 +10,7 @@ I'm a **Third Year Computer Science** student at **McMaster University**, specia
 - **Cloud Services**: AWS Lambda, AWS S3, AWS CloudWatch, AWS EC2, Google Firebase, Azure Functions, Azure Blob, Azure VM, Digital Ocean, Docker, Kubernetes
 
 ## 🔥 Currently Working On
-- **FormFit**: A **Computer Vision** app for physiotherapy form evaluation, leading a subteam to present at **CUCAI 2025**.
+- **FormFit**: A **Computer Vision** app for physiotherapy form evaluation, leading a subteam.
 - **Music Visualization**: Developing a **Machine Learning**-powered project using the **Spotify API** to visualize music data and trends using Generative AI
 - **SponsorPanda**: Working on **SponsorPanda**, a platform focused on connecting startups with relevant sponsors and partners.
 
