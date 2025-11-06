@@ -32,11 +32,9 @@ Outside of technology, I am deeply interested in photography and filmmaking. I s
 
 ## Connect With Me
 
-LinkedIn: [linkedin.com/in/dev-mody](https://www.linkedin.com/in/dev-mody/)
-Instagram: [instagram.com/dmody_](https://www.instagram.com/dmody_)
-Portfolio: [devmody.live](https://devmody.live)
-Resume: [View Resume (PDF)](https://github.com/DEVeloper1006/DEVeloper1006/blob/main/DevM2025Resume.pdf)
+- LinkedIn: [linkedin.com/in/dev-mody](https://www.linkedin.com/in/dev-mody/)
+- Instagram: [instagram.com/dmody_](https://www.instagram.com/dmody_)
+- Portfolio: [devmody.live](https://devmody.live)
+- Resume: [View Resume (PDF)](https://github.com/DEVeloper1006/DEVeloper1006/blob/main/DevM2025Resume.pdf)
 
 ---
-
-Would you like me to generate this as a downloadable `.txt` file so you can keep a local backup and copy it easily?
