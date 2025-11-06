@@ -35,6 +35,7 @@ Outside of technology, I am deeply interested in photography and filmmaking. I s
 - LinkedIn: [linkedin.com/in/dev-mody](https://www.linkedin.com/in/dev-mody/)
 - Instagram: [instagram.com/dmody_](https://www.instagram.com/dmody_)
 - Portfolio: [devmody.live](https://devmody.live)
-- Resume: [View Resume (PDF)](https://github.com/DEVeloper1006/DEVeloper1006/blob/main/DevM2025Resume.pdf)
+- Resume: [View Resume (PDF)](https://github.com/DEVeloper1006/DEVeloper1006/blob/main//DMFall2025Resume.pdf
+)
 
 ---
