@@ -4,11 +4,11 @@
 
 I am a Fourth-Year Honours Computer Science (Co-Op) student at McMaster University, passionate about using technology to solve real-world problems in Artificial Intelligence, Cybersecurity, and Data Science.
 
-Currently, I am working as a Software Developer Intern at DCM, where I develop COBOL and Bash scripts for production systems used by major financial clients, maintain UNIX workflows for secure printing, and contribute to internal tools using C and Python.
+I worked at DCM as a Software Engineer Intern, where I develop COBOL and Bash scripts for production systems used by major financial clients, maintain UNIX workflows for secure printing, and contribute to internal tools using C and Python.
 
-At the same time, I served as a Project Team Lead at the McMaster Artificial Intelligence Society, leading the FormFit Project—a Computer Vision and Reinforcement Learning physiotherapy model showcased at CUCAI 2025. This experience taught me how to manage teams, guide technical direction, and translate research into working software.
+I also served as a Project Team Lead at the McMaster Artificial Intelligence Society, leading the FormFit Project—a Computer Vision and Reinforcement Learning physiotherapy model showcased at CUCAI 2025. This experience taught me how to manage teams, guide technical direction, and translate research into working software.
 
-Outside of technology, I am deeply interested in photography and filmmaking. I spend my spare time capturing urban and portrait photography and aspire to one day create a short film or feature to present at TIFF. I believe in blending art and engineering to create technology that is both functional and meaningful.
+Outside of tech, I am deeply interested in photography and filmmaking. I spend my spare time capturing urban and portrait photography and aspire to one day create a short film or feature to present at TIFF. I believe in blending art and engineering to create technology that is both functional and meaningful.
 
 ---
 
