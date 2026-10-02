@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Fourth-Year Honours Computer Science (Co-Op) student at McMaster University, passionate about using technology to solve real-world problems in Artificial Intelligence, Cybersecurity, and Data Science.
+I am a Fifth-Year Honours Computer Science (Co-Op) student at McMaster University, passionate about using technology to solve real-world problems in Artificial Intelligence, Cybersecurity, and Data Science.
 
 I worked at DCM as a Software Engineer Intern, where I develop COBOL and Bash scripts for production systems used by major financial clients, maintain UNIX workflows for secure printing, and contribute to internal tools using C and Python.
 
